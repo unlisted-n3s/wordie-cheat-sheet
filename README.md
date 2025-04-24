@@ -1,2 +1,9 @@
-# wordie-cheat-sheet
-A simple html site for cheating on Wordie in Roblox
+<p align="center">
+   <a>
+      <img src="https://raw.githubusercontent.com/unlisted-n3s/wordie-cheat-sheet/refs/heads/wordie-cheat-sheet.png" width="600" height="200">
+   </a>
+   <br>
+   <b>Wordie🧩 Cheat-Sheet</b>
+   <br>
+   <b>A simple html site for cheating on Wordie in Roblox.</b>
+</p><br>
