@@ -6,4 +6,4 @@
    <b>Wordie🧩 Cheat-Sheet</b>
    <br>
    <b>A simple html site for cheating on Wordie in Roblox.</b>
-</p><br>
+</p>
